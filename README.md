@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hafeez
-- 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning react native with expo framework
+- 👀 I’m interested in front-end Development
 - 💞️ I’m looking to collaborate on cross Mobile App Development
 - 📫 How to reach me makindehafeez86@gmail.com
 
